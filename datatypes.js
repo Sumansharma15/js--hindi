@@ -23,3 +23,6 @@ let stringNumber = String(somenumber);
 
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+
